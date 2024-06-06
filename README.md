@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaniizs" alt="kaniizs" /></a> </p>
 
-- 🌱 I’m currently learning **More react and php with laravel app**
+- 🌱 I’m currently learning **Mobile Cyber security dev**
 
 - 📫 How to reach me **mojizsz12@gmail.com**
 
